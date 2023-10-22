@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# Kodluyoruz 2. Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz  repo-2. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. İndex dosyasında HTML etiketleri kullanarak, başlık ve paragraf şeklinde hakkımda yazısı yazdım,resm ekledim ve sırali ve sırasiz listeleme yaptim
 
